@@ -7,6 +7,8 @@ public class TestApp
     	// Write message:
         System.out.println("Hello, World");
         
+        System.out.println("How are you, World?");
+        
         System.out.println("Goodbye, World");
     }
 }
