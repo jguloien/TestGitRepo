@@ -1,6 +1,7 @@
 package com.telus.testproj;
 /*
  * TestApp
+ *  - This is a simple app that prints messages.
  */
 public class TestApp
 {
