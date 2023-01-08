@@ -1,6 +1,7 @@
 package com.telus.testproj;
 /*
  * HelloWorld
+ *  - the standard "Hello World!" application
  */
 public class HelloWorld
 {
